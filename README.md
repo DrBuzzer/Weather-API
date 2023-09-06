@@ -28,7 +28,7 @@ JSON-ответ: API возвращает данные о погоде в фор
 DrBuzzer
 
 # Контактная информация
-По всем вопросам и запросам обращайтесь по адресу kuzminskk@yandexx.ru
+------------------------
 # Weather-API
 Weather API
 This project is a simple weather API that retrieves weather data from the OpenWeatherMap API based on the provided city name. It uses the Go programming language and the net/http package to handle HTTP requests and responses.
@@ -59,4 +59,4 @@ This project is licensed under the MIT License.
 DrBuzzer
 
 # Contact
-For any questions or inquiries, please contact kuzminskk@yandex.ru.
+------------------------------------------------
